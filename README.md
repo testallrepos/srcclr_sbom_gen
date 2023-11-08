@@ -1,4 +1,4 @@
-# srcclr_sbom_gen111
+# srcclr_sbom_gen
 
 Parses srcclr scan results and converts to CycloneDX [https://cyclonedx.org/] SBOM JSON format.
 
